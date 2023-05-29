@@ -21,15 +21,22 @@
 
 1. Hozzatok létre egy-egy branchet a `main` branchből a saját GitHub felhasználónevetekkel. (`git branch <name>`)
 2. Váltsatok át erre a branchre. (`git checkout <name>`)
+3. Osszátok szét egymás között az alábbi feladatokat, majd mindenki a saját branchére dolgozzon:
 
-A `rendelesek.md` fájlban láttok egy szekciót, ahol az egyes termékekből vásárolt mennyiségeknek kell szerepelnie.
+> A `rendelesek.md` fájlban láttok egy szekciót, ahol az egyes termékekből vásárolt mennyiségeknek kell szerepelnie.
+>
+> Az alábbi feladatokat osszátok ki egymás között:
+>
+> - A csapat egyik tagjának a feladata az, hogy az első és második termék azonosítóját a termék neve elé, illetve a harmadik és negyedik termék mennyiségét a termék neve mögé beírja.
+> - A másik csapattagnak a feladata az, hogy a harmadik és negyedik termék azonosítóját a termék neve elé, illetve az első és második termék mennyiségét a termék neve mögé beírja.
 
-Az alábbi feladatokat osszátok ki egymás között:
+4. Commitoljátok a változtatásaitokat. (`git add -A`, majd `git commit -m "<message>"`)
+5. Hozzatok létre egy-egy pull requestet a saját branchetekből a `main` branchbe, és jelöljétek be egymást reviewernek.
+6. Nézzétek meg egymás pull requestjét, és ha szükséges, akkor írjatok kommentet, vagy kérdezzetek rá a megoldásra a GitHubon keresztül.
 
-- A csapat egyik tagjának a feladata az, hogy az első és második termék azonosítóját a termék neve elé, illetve a harmadik és negyedik termék mennyiségét a termék neve mögé beírja.
-- A másik csapattagnak a feladata az, hogy a harmadik és negyedik termék azonosítóját a termék neve elé, illetve az első és második termék mennyiségét a termék neve mögé beírja.
+## Segítség
 
-### Példa az első feladatra
+### Példa az első feladat megoldására
 
 ```
 | Rendelés azonosítója | Termék azonosítója | Mennyiség (kg) |
@@ -47,7 +54,7 @@ Narancs: 10 kg
 Paradicsom: 5 kg
 ```
 
-### Példa a második feladatra
+### Példa a második feladat megoldására
 
 ```
 | Rendelés azonosítója | Termék azonosítója | Mennyiség (kg) |
