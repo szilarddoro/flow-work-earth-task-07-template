@@ -27,8 +27,10 @@
 >
 > Az alábbi feladatokat osszátok ki egymás között:
 >
-> - A csapat egyik tagjának a feladata az, hogy az első és második termék azonosítóját a termék neve elé, illetve a harmadik és negyedik termék mennyiségét a termék neve mögé beírja.
-> - A másik csapattagnak a feladata az, hogy a harmadik és negyedik termék azonosítóját a termék neve elé, illetve az első és második termék mennyiségét a termék neve mögé beírja.
+> - A csapat egyik tagjának a feladata az, hogy az első és második termék azonosítóját a termék neve elé, a harmadik és negyedik termék mennyiségét pedig a termék neve mögé beírja.
+> - A másik csapattagnak a feladata az, hogy a harmadik és negyedik termék azonosítóját a termék neve elé, az első és második termék mennyiségét pedig a termék neve mögé beírja.
+>
+> Használjátok a fájlban lévő táblázatot arra, hogy a megfelelő helyre beírjátok az adatokat!
 
 4. Commitoljátok a változtatásaitokat. (`git add -A`, majd `git commit -m "<message>"`)
 5. Hozzatok létre egy-egy pull requestet a saját branchetekből a `main` branchbe, és jelöljétek be egymást reviewernek.
