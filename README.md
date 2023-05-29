@@ -23,7 +23,7 @@
 2. Váltsatok át erre a branchre. (`git checkout <name>`)
 3. Osszátok szét egymás között az alábbi feladatokat, majd mindenki a saját branchére dolgozzon:
 
-> A `rendelesek.md` fájlban láttok egy szekciót, ahol az egyes termékekből vásárolt mennyiségeknek kell szerepelnie.
+> A `rendelesek.md` fájlban láttok egy szekciót, ahol az egyes termékek azonosítójának, nevének, illetve vásárolt mennyiségeknek kell szerepelnie.
 >
 > Az alábbi feladatokat osszátok ki egymás között:
 >
