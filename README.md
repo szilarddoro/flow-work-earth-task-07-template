@@ -33,6 +33,9 @@
 4. Commitoljátok a változtatásaitokat. (`git add -A`, majd `git commit -m "<message>"`)
 5. Hozzatok létre egy-egy pull requestet a saját branchetekből a `main` branchbe, és jelöljétek be egymást reviewernek.
 6. Nézzétek meg egymás pull requestjét, és ha szükséges, akkor írjatok kommentet, vagy kérdezzetek rá a megoldásra a GitHubon keresztül.
+7. Amennyiben valamelyik fél megoldásában hibát találtok, próbáljátok meg közösen kijavítani azt egymást segítve.
+8. Ha mindent rendben találtok, akkor az első feladatért felelős személy mergelheti a saját pull requestjét a `main` branchbe.
+9. ⚠️ Ezen a ponton a második feladat pull requestje conflictot fog generálni. Közösen javítsátok ki a problémát, és mergeljétek a második feladat pull requestjét is a `main` branchbe. Ezt a GitHub felületén keresztül is meg tudjátok akár tenni. Figyeljetek rá, hogy mindkettőtök változtatása bekerüljön a `main` branchbe!
 
 ## Segítség
 
@@ -70,4 +73,22 @@ Alma: 15 kg
 Brokkoli: 20 kg
 3 - Narancs:
 4 - Paradicsom:
+```
+
+### Példa a konfliktus feloldására
+
+```
+| Rendelés azonosítója | Termék azonosítója | Mennyiség (kg) |
+| -------------------- | ------------------ | -------------- |
+| 1                    | 1                  | 15             |
+| 2                    | 4                  | 5              |
+| 3                    | 2                  | 20             |
+| 4                    | 3                  | 10             |
+
+## Vásárolt mennyiség
+
+1 - Alma: 15 kg
+2 - Brokkoli: 20 kg
+3 - Narancs: 10 kg
+4 - Paradicsom: 5 kg
 ```
