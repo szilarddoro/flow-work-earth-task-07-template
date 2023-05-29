@@ -31,7 +31,7 @@ Az alábbi feladatokat osszátok ki egymás között:
 
 ### Példa
 
-```md
+```
 | Rendelés azonosítója | Termék azonosítója | Mennyiség (kg) |
 | -------------------- | ------------------ | -------------- |
 | 1                    | 1                  | 15             |
