@@ -8,12 +8,12 @@
 
 1. Hozz létre egy új repot ezt felhasználva template-ként.
 2. Hívd meg a csapattársadat a repositoryhoz a GitHub-on a `Settings > Collaborators` menüpont alatt.
-3. Klónozd le ezt a repositoryt a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone https://github.com/[github-felhasznalo]/[projekt-neve] task-07`)
+3. Klónozd le ezt a repositoryt a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone https://github.com/[github-felhasznalo]/flow-work-earth-task-07 task-07`)
 
 ## A csapattárs feladatai
 
 1. Fogadd el a meghívást a GitHub-on a csapatkapitányodtól a jobb felső sarokban megjelenő értesítésre kattintva. Kövesd a lépéseket, amiket a GitHub megjelenít neked.
-2. Klónozd le a csapatkapitányod repositoryját a `~/flow/git` mappán belülre a `task-07` mappába. Fontos, hogy itt a repository nem a saját neved alatt lesz! (`git clone https://github.com/[github-felhasznalo]/[projekt-neve] task-07`)
+2. Klónozd le a csapatkapitányod repositoryját a `~/flow/git` mappán belülre a `task-07` mappába. Fontos, hogy itt a repository nem a saját neved alatt lesz! (`git clone https://github.com/[csapatkapitany-github-felhasznaloja]/flow-work-earth-task-07 task-07`)
 
 ## Mindkét fél feladatai
 
