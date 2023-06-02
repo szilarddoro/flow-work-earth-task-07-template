@@ -6,7 +6,7 @@
 
 ## Csapatkapitány feladatai
 
-1. Hozz létre egy repositoryt a GitHub-on a saját felhasználód alá, aminek a neve `flow-work-earth-task-07` legyen.
+1. Hozz létre egy új repot ezt felhasználva template-ként.
 2. Hívd meg a csapattársadat a repositoryhoz a GitHub-on a `Settings > Collaborators` menüpont alatt.
 3. Klónozd le ezt a repositoryt (fontos, hogy ne azt, amit az 1. lépésben létrehoztál!) a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone https://github.com/szilarddoro/flow-work-earth-task-07-template task-07`)
 4. Változtasd meg az `origin` URL-jét, hogy az legyen, amit az 1. lépésben létrehoztál. (`git remote set-url origin <url>`)
