@@ -8,18 +8,16 @@
 
 1. Hozz létre egy új repot ezt felhasználva template-ként.
 2. Hívd meg a csapattársadat a repositoryhoz a GitHub-on a `Settings > Collaborators` menüpont alatt.
-3. Klónozd le ezt a repositoryt (fontos, hogy ne azt, amit az 1. lépésben létrehoztál!) a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone https://github.com/szilarddoro/flow-work-earth-task-07-template task-07`)
-4. Változtasd meg az `origin` URL-jét, hogy az legyen, amit az 1. lépésben létrehoztál. (`git remote set-url origin <url>`)
-5. Pushold fel az aktuális tartalmat a GitHub-ra. (`git push -u origin main`)
+3. Klónozd le ezt a repositoryt a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone https://github.com/[github-felhasznalo]/[projekt-neve] task-07`)
 
 ## A csapattárs feladatai
 
 1. Fogadd el a meghívást a GitHub-on a csapatkapitányodtól a jobb felső sarokban megjelenő értesítésre kattintva. Kövesd a lépéseket, amiket a GitHub megjelenít neked.
-2. Klónozd le a csapatkapitányod repositoryját a `~/flow/git` mappán belülre a `task-07` mappába. (`git clone <url> task-07`)
+2. Klónozd le a csapatkapitányod repositoryját a `~/flow/git` mappán belülre a `task-07` mappába. Fontos, hogy itt a repository nem a saját neved alatt lesz! (`git clone https://github.com/[github-felhasznalo]/[projekt-neve] task-07`)
 
 ## Mindkét fél feladatai
 
-1. Hozzatok létre egy-egy branchet a `main` branchből a saját GitHub felhasználónevetekkel. (`git branch <name>`)
+1. Hozzatok létre egy-egy branchet a `main` branchből a saját **GitHub felhasználónevetekkel**. (`git branch <name>`)
 2. Váltsatok át erre a branchre. (`git checkout <name>`)
 3. Osszátok szét egymás között az alábbi feladatokat, majd mindenki a saját branchére dolgozzon:
 
